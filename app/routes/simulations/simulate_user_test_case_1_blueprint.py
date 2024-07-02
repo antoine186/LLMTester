@@ -30,6 +30,16 @@ def handle_user_query():
             "return_message": ""
         }
         
+        """
+        operation_response = {
+            "operation_success": True,
+            "return_value": {
+                "llm_output": "Hi"
+                },
+            "return_message": ""
+        }
+        """
+        
         response = cors_preflight_or_inflight_request_response_make(operation_response)
         return response
     
