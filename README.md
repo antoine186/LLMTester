@@ -8,11 +8,8 @@
 - ollama run llama3 (And wait for installation to complete)
 
 ## If docker approach doesn't work, use vscode debug:
-* Install VSCode and open flask_base_server using VSCode.
+* Install VSCode and open project using VSCode.
 * In VSCode, do CTRL+SHIFT+D. Press on the play button that appears on the left (not the one on the right).
-
-* Separately, open flask_proxy_server using VSCode.
-* Once again in VSCode, do CTRL+SHIFT+D. Press on the play button that appears on the left (not the one on the right).
 
 * Wait until "Running on http://127.0.0.1:5000"
 
