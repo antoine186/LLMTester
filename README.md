@@ -13,9 +13,9 @@
 
 * Wait until "Running on http://127.0.0.1:5000"
 
-* Install ollama using the .exe installer from the official site
-* In command line, run "ollama pull llama3"
-* "ollama run llama3"
+* Install ollama using the .exe installer from the official site: https://ollama.com/download.
+* In command line, run "ollama pull llama3".
+* "ollama run llama3".
 
 # Ping the backend using Postman
 * Install the Postman API client
