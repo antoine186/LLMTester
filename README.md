@@ -1,4 +1,4 @@
-# LLM Testing Challenge
+# LLMTester
 
 ## Running backend using docker:
 - docker build --tag python-docker .
